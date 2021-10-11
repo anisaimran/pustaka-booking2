@@ -13,7 +13,7 @@
 
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Cirebon</li>
+        <li>Bogor</li>
     </ul>
 
     <h4>Olah Raga Favorit</h4>
